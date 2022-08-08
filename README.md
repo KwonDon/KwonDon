@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### ♦️Stack♦️
+<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+
 ### 👀Profile👀
 > - __Name__
 >> 권혁돈 (Hyeokdon Kwon)
