@@ -3,9 +3,9 @@
 > - __Name__
 > 권혁돈 (Hyeokdon Kwon)
 > - __E-mail__
->gurehs12@naver.com
+> gurehs12@naver.com
 
->  __🏫Education🏫__
+###🏫Education🏫###
 > __보라매초등학교 졸업__ 
 > __성남중학교 졸업__   
 > __성남고등학교 졸업__   
