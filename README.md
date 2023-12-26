@@ -25,4 +25,4 @@
 > `GPA` 4.15/4.5 <br>
 
 ### ✉️:Curriculum Vitae✉️:
-https://github.com/KwonDon/KwonDon/blob/main/Curriculum_Vitae/CV_Kwon.pdf
+> https://github.com/KwonDon/KwonDon/blob/main/Curriculum_Vitae/CV_Kwon.pdf
