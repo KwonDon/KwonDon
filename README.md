@@ -1,6 +1,6 @@
 ### 👀Profile👀
 > __Name__
-> : 권혁돈 (Hyeok-don Kwon)
+> : 권혁돈 (Hyeok-don Kwon) <br>
 > __E-mail__
 > : gurehs12@naver.com
 
